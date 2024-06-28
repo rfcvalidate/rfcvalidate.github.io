@@ -3,7 +3,7 @@ An example of creating a reusable grid component and using it with external data
 -->
 
 <script setup lang="ts">
-import DemoGrid from './Grid.vue'
+import DemoGrid from './GridView'
 import data from "../data/data.json";
 import { ref } from 'vue';
 import { CForm, CFormInput, CAlert, CButton, CRow, CCol, CContainer, CHeader, CHeaderText } from '@coreui/vue';
@@ -28,13 +28,11 @@ const vars = {
   "margin-left": "-1px"
 }
 
-const onKeyPressEnter = (event) => {
-  console.log('onKeyPressEnter : ' + event)
+const onKeyPressEnter = (event: Event) => {
 
   if (event) {
     event.preventDefault();
     event.stopPropagation();
-    console.log('prevent default')
   }
   search();
 }
@@ -113,7 +111,7 @@ const search = () => {
 
     <CRow class="g-3">
       <CCol xs>
-        <CFormInput @keyup.enter="(e) => onKeyPressEnter(e)" type="text" id="searchInput" v-model="searchQuery"
+        <CFormInput @keyup.enter="(e: Event) => onKeyPressEnter(e)" type="text" id="searchInput" v-model="searchQuery"
           placeholder="Ingresa el RFC a validar" aria-describedby="searchInputHelpInline" />
       </CCol>
       <CCol xs>

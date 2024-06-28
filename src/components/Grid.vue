@@ -12,11 +12,16 @@ const props = defineProps({
 
 const sortKey = ref('')
 const sortOrders = ref(
-  props.columns.reduce((o, key) => ((o[key] = 1), o), {})
+  props.columns && props.columns.reduce((o, key) => ((o[key] = 1), o), {})
 )
 
 const filteredData = computed(() => {
   let { data, filterKey } = props
+
+  if(data === undefined){
+    return [];
+  }
+
   if (filterKey) {
     filterKey = filterKey.toLowerCase()
     data = data.filter((row) => {
