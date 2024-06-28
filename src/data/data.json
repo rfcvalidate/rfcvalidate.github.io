@@ -1,0 +1,362 @@
+[
+    {
+        "Id": "1",
+        "Empresa": "Alexa Internet. ",
+        "RFC": "AIN970501J32",
+        "Status": false
+    },
+    {
+        "Id": "2",
+        "Empresa": "Apple Services Latam LLC",
+        "RFC": "ASL1908207Z2",
+        "Status": true
+    },
+    {
+        "Id": "3",
+        "Empresa": "Claro Video, LLC. ",
+        "RFC": "CVL0609272C7",
+        "Status": false
+    },
+    {
+        "Id": "4",
+        "Empresa": "Expedia, Inc. ",
+        "RFC": "EIN131115UE7",
+        "Status": true
+    },
+    {
+        "Id": "5",
+        "Empresa": "Freelancer International Pty Ltd.",
+        "RFC": "FIP090108JQ2",
+        "Status": true
+    },
+    {
+        "Id": "6",
+        "Empresa": "Gympass Us LLC.",
+        "RFC": "GUL17082947A",
+        "Status": false
+    },
+    {
+        "Id": "7",
+        "Empresa": "Kayak Software Corporation. ",
+        "RFC": "KSC040106RP6",
+        "Status": true
+    },
+    {
+        "Id": "8",
+        "Empresa": "NBA Properties, Inc. ",
+        "RFC": "PI670830GU1",
+        "Status": true
+    },
+    {
+        "Id": "9",
+        "Empresa": "Roku, Inc.",
+        "RFC": "RIN080201H69",
+        "Status": true
+    },
+    {
+        "Id": "10",
+        "Empresa": "Uber B.V. ",
+        "RFC": "UBV121024TN8",
+        "Status": true
+    },
+    {
+        "Id": "11",
+        "Empresa": "Amazon.Com Services LLC. ",
+        "RFC": "ASL020118JS5",
+        "Status": true
+    },
+    {
+        "Id": "12",
+        "Empresa": "Ebay Marketplaces Gmbh. ",
+        "RFC": "EMG1611031N6",
+        "Status": true
+    },
+    {
+        "Id": "13",
+        "Empresa": "Sony Music Solutions Inc.",
+        "RFC": "SMS870821C67",
+        "Status": true
+    },
+    {
+        "Id": "14",
+        "Empresa": "Wix.Com Ltd. ",
+        "RFC": "WLT061005SK7",
+        "Status": true
+    },
+    {
+        "Id": "15",
+        "Empresa": "Viki Inc ",
+        "RFC": "VIN070611CP3",
+        "Status": true
+    },
+    {
+        "Id": "16",
+        "Empresa": "OFFICE DEPOT DE MEXICO S.A. DE C.V.",
+        "RFC": "ODM-950324U2A",
+        "Status": true
+    },
+    {
+        "Id": "17",
+        "Empresa": "TECNO RED S.A. DE C.V",
+        "RFC": "TRE-081001-9KA",
+        "Status": true
+    },
+    {
+        "Id": "18",
+        "Empresa": "MUEBLES SIRIUS, S.A. DE C.V. ",
+        "RFC": "MSI-060522-614",
+        "Status": true
+    },
+    {
+        "Id": "19",
+        "Empresa": "NUEVA WAL MART DE MEXICO S. DE RL DE C.V. ",
+        "RFC": "NWM-970924-4W4",
+        "Status": true
+    },
+    {
+        "Id": "20",
+        "Empresa": "OPERADORA MEXICANA DEL HOGAR, S.A. DE C.V",
+        "RFC": "DMH-071221-FM4",
+        "Status": true
+    },
+    {
+        "Id": "21",
+        "Empresa": "TIENDAS SORIANA, S.A. DE C.V",
+        "RFC": "TSO-991022-PB6",
+        "Status": true
+    },
+    {
+        "Id": "22",
+        "Empresa": "GRUPO PARISINA S.A. DE C.V.",
+        "RFC": "GPA-930101-Q17",
+        "Status": true
+    },
+    {
+        "Id": "23",
+        "Empresa": "TICO PLASTIC S.A. DE C.V. ",
+        "RFC": "TPL0210299X6",
+        "Status": true
+    },
+    {
+        "Id": "24",
+        "Empresa": "VIDRIO Y ALUMINIO LOCI (GUSTAVO RAMIRO LONGORIA CID)",
+        "RFC": "LOCG-650509-VI6",
+        "Status": true
+    },
+    {
+        "Id": "25",
+        "Empresa": "DISTRIBUIDORA DE COMBUSTIBLES DE ZACATECAS, S.A. DE C.V.",
+        "RFC": "DCZ-930902-J35",
+        "Status": true
+    },
+    {
+        "Id": "26",
+        "Empresa": "AUTO ZONE DE MÉXICO S. DE R.L. DE C.V.",
+        "RFC": "AME-970109-GW0",
+        "Status": true
+    },
+    {
+        "Id": "27",
+        "Empresa": "SERVICIO POSTAL MEXICANO",
+        "RFC": "SPM-860820-CFS",
+        "Status": true
+    },
+    {
+        "Id": "28",
+        "Empresa": "HOTEL EMPORIO ZACATECAS",
+        "RFC": "HT2-870629-2B4",
+        "Status": true
+    },
+    {
+        "Id": "29",
+        "Empresa": "VIAJES MOZZOCCO, S.A. DE C.V.",
+        "RFC": "VMA-780929-RK4",
+        "Status": true
+    },
+    {
+        "Id": "30",
+        "Empresa": "SANBORN HERMANOS S.A. ",
+        "RFC": "SHE-190630-V37",
+        "Status": true
+    },
+    {
+        "Id": "31",
+        "Empresa": "OPERADORA BRAVO´S, S.A. DE C.V. ",
+        "RFC": "OBR-971124-B22",
+        "Status": true
+    },
+    {
+        "Id": "32",
+        "Empresa": "ARQUITECTURA VERDE  S. DE R.L. DE C.V.",
+        "RFC": "MAV-100927-R12",
+        "Status": true
+    },
+    {
+        "Id": "33",
+        "Empresa": "SERVICIOS INTERNACIONALES DE NEGOCIOS S.C.",
+        "RFC": ". SIN-020124-MIZ",
+        "Status": true
+    },
+    {
+        "Id": "34",
+        "Empresa": "FARMACIAS DE SIMILARES S.A. DE C.V.",
+        "RFC": "FSI-970908-ML5",
+        "Status": true
+    },
+    {
+        "Id": "35",
+        "Empresa": "FARMACIAS GUADALAJARA S.A. DE C.V.",
+        "RFC": "FGU830930-PD3",
+        "Status": true
+    },
+    {
+        "Id": "36",
+        "Empresa": "INSTITUTO TECNOLOGICO DE LA CONSTRUCCIÓN, A.C.",
+        "RFC": "ITC-831025-155",
+        "Status": true
+    },
+    {
+        "Id": "37",
+        "Empresa": " SERVICIO DE CONSULTORIA DE VALOR AGREGADO SC",
+        "RFC": "SCV041116QJ0",
+        "Status": true
+    },
+    {
+        "Id": "38",
+        "Empresa": "Dirección General de Bibliotecas, Universidad Nacional Autónoma de México",
+        "RFC": "UNA2907227Y5",
+        "Status": true
+    },
+    {
+        "Id": "39",
+        "Empresa": "Composición Editorial Láser, S.A. de C.V.",
+        "RFC": "CEL880421GG0",
+        "Status": true
+    },
+    {
+        "Id": "40",
+        "Empresa": "Graphimedic, S.A. de C.V",
+        "RFC": "GRA011009MW1",
+        "Status": true
+    },
+    {
+        "Id": "41",
+        "Empresa": "SEGUROS ARGOS, S.A. DE C.V.",
+        "RFC": "SAR0210119D5",
+        "Status": true
+    },
+    {
+        "Id": "42",
+        "Empresa": "FIDEICOMISO DELTA 3, SIN TIPO DE SOCIEDAD",
+        "RFC": "FDT160804ML9",
+        "Status": true
+    },
+    {
+        "Id": "43",
+        "Empresa": "SINTEG EN MÉXICO, S.A. DE C.V.",
+        "RFC": "SME9002277T7",
+        "Status": true
+    },
+    {
+        "Id": "44",
+        "Empresa": "ROSALINA ESTRADA SANCHEZ",
+        "RFC": "EASR510611N77",
+        "Status": true
+    },
+    {
+        "Id": "45",
+        "Empresa": "CORPORATIVO GLOBALTEN, S.A. DE C.V.",
+        "RFC": "CGL1902185K3",
+        "Status": true
+    },
+    {
+        "Id": "46",
+        "Empresa": "VICINO DISEÑO PARTICIPATIVO DE PROCESOS COMUNITARIOS SAS",
+        "RFC": "VDP1904113Z0",
+        "Status": true
+    },
+    {
+        "Id": "47",
+        "Empresa": "SMARTI SOLUCIONES TECNOLOGICAS AVANZADAS SA DE CV",
+        "RFC": "SST1603226G4",
+        "Status": true
+    },
+    {
+        "Id": "48",
+        "Empresa": "BEATRIZ BELTRAN FLORES",
+        "RFC": "BEFB810319S7A",
+        "Status": true
+    },
+    {
+        "Id": "49",
+        "Empresa": "DISTRIBUCIÓN, APLICACIÓN Y EQUIPOS PARA NEGOCIOS, S.A. DE C.V.",
+        "RFC": "DAE140703MK1",
+        "Status": true
+    },
+    {
+        "Id": "50",
+        "Empresa": "WOHLLER REVESTIMIENTOS, S.A. DE C.V.",
+        "RFC": "WRE200605K47",
+        "Status": true
+    },
+    {
+        "Id": "51",
+        "Empresa": "STRAIGHT EDGE SOCIETY S.A DE C.V",
+        "RFC": "SES1208294TA",
+        "Status": true
+    },
+    {
+        "Id": "52",
+        "Empresa": "ALIADA INTEGRAL SA DE CV",
+        "RFC": "AIN091126589",
+        "Status": true
+    },
+    {
+        "Id": "53",
+        "Empresa": "SHIKON GRUPO S.R.L DE C.V.",
+        "RFC": "SGR180828L15",
+        "Status": true
+    },
+    {
+        "Id": "54",
+        "Empresa": "ADAMANT PROTECTION SERVICE, S.A. DE C.V.",
+        "RFC": "APS171123HP6",
+        "Status": true
+    },
+    {
+        "Id": "55",
+        "Empresa": "PROVEEDORA Y CONSTRUCTORA HECOM, S.A. DE C.V.",
+        "RFC": "PCH060322N22",
+        "Status": true
+    },
+    {
+        "Id": "56",
+        "Empresa": "CINCO RADIO, S. A. DE C. V.",
+        "RFC": "CRA070427QX9",
+        "Status": true
+    },
+    {
+        "Id": "57",
+        "Empresa": "CARLOS RUBEN MACIAS PALMA",
+        "RFC": "MAPC640214BD0",
+        "Status": true
+    },
+    {
+        "Id": "58",
+        "Empresa": "TOTAL PLAY TELECOMUNICACIONES, S.A.P.I.  DE C.V.",
+        "RFC": "TPT890516JP5",
+        "Status": true
+    },
+    {
+        "Id": "59",
+        "Empresa": "PUBLICITY 2021MX SA DE CV",
+        "RFC": "PMX210429HFA",
+        "Status": true
+    },
+    {
+        "Id": "60",
+        "Empresa": "KIWI NETWORKS S.A.P.I. DE C.V.",
+        "RFC": "KNE110317Q61",
+        "Status": true
+    }
+]
