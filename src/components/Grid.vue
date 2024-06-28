@@ -2,6 +2,7 @@
 import { ref, computed } from 'vue'
 import { CTable, CTableCaption, CTableHead, CTableRow, CTableHeaderCell, CTableDataCell } from '@coreui/vue';
 
+
 const ACTIVO = "Activo"
 const INACTIVO = "Inactivo"
 const props = defineProps({
@@ -167,3 +168,5 @@ th.active .arrow {
   border-top: 4px solid #fff;
 }
 </style>
+
+
