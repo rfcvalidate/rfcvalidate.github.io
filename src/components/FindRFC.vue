@@ -3,7 +3,7 @@ An example of creating a reusable grid component and using it with external data
 -->
 
 <script setup lang="ts">
-import DemoGrid from './GridView'
+import DemoGrid from './Grid.vue';
 import data from "../data/data.json";
 import { ref } from 'vue';
 import { CForm, CFormInput, CAlert, CButton, CRow, CCol, CContainer, CHeader, CHeaderText } from '@coreui/vue';
