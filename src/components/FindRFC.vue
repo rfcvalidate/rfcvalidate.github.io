@@ -18,8 +18,14 @@ const liveErrorVisible = ref(false)
 const liveOkVisible = ref(false)
 const errorMessage = ref('')
 
-const gridColumns = ['Id', 'Empresa', 'RFC', 'Status']
-const gridData = data;
+type column = "Id" | "Empresa" | "RFC"| "Status";
+
+const gridColumns: column[] = ['Id', 'Empresa', 'RFC', 'Status'];
+const gridData = data.map((d)=>{
+  return {...d,
+    Status : d.Status ? "Activo" : "Inactivo"
+  }
+});
 
 const vars = {
   "font-size": "54px",
